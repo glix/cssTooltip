@@ -104,3 +104,7 @@ Licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Credits
 This doesn't make use of a lot of BEM methodology but big thanks to [@csswizardry](https://twitter.com/csswizardry), [@necolas](https://twitter.com/necolas) for their awesome articles on BEM and to [@joshnh](https://twitter.com/_joshnh) through whose work I came to know about it :)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/csstooltip/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
